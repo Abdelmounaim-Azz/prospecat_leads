@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 from Email_Finder import getpage
-scraperapi_key = "10db49d62d423f82e59d0ecdc0788cda"
+scraperapi_key = ""
 
 
 def scrape_criteria(jobTitle, domain, certification, start=0):

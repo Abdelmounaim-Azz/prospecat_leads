@@ -5,8 +5,8 @@ import time
 import urllib.parse
 import hashlib
 
-debounce_apikey = "612bca5094b22"
-scraperapi_key = "0bde35118a1984957e4d6d95e15ad4ec"
+debounce_apikey = ""
+scraperapi_key = ""
 
 
 validacc = 100
