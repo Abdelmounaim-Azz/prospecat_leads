@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: leads-srv
+spec:
+  selector:
+    app: leads
+  ports:
+    - name: leads
+      protocol: TCP
+      port: 3000
+      targetPort: 3000

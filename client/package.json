@@ -1,0 +1,31 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.15",
+    "@hookform/resolvers": "^1.0.1",
+    "@stripe/stripe-js": "^1.15.0",
+    "axios": "^0.21.0",
+    "bootstrap": "^4.5.3",
+    "next": "^10.0.4",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.3",
+    "react-confetti": "^6.0.0",
+    "react-dom": "^17.0.1",
+    "react-google-login": "^5.2.2",
+    "react-hook-form": "^6.11.3",
+    "react-onclickoutside": "^6.11.2",
+    "react-spring": "^8.0.27",
+    "react-transition-group": "^4.4.2",
+    "sweetalert2": "^9.17.1",
+    "yup": "^0.30.0"
+  }
+}
